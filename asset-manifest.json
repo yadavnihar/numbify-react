@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/numbify-react/static/css/main.636df0fd.css",
+    "main.js": "/numbify-react/static/js/main.baf79649.js",
+    "static/js/453.bd589138.chunk.js": "/numbify-react/static/js/453.bd589138.chunk.js",
+    "static/media/oldversion.png": "/numbify-react/static/media/oldversion.2d1787e85fffe5fa15f0.png",
+    "index.html": "/numbify-react/index.html",
+    "main.636df0fd.css.map": "/numbify-react/static/css/main.636df0fd.css.map",
+    "main.baf79649.js.map": "/numbify-react/static/js/main.baf79649.js.map",
+    "453.bd589138.chunk.js.map": "/numbify-react/static/js/453.bd589138.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636df0fd.css",
+    "static/js/main.baf79649.js"
+  ]
+}
